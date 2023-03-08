@@ -1,6 +1,6 @@
 # loadcells
 
-Simple library to ..............
+The program reads load cell values from an Arduino device connected via serial communication, applies a regression to transform these values into force/torque values, and then streams these values using the Lab Streaming Layer (LSL) protocol.
 
 # Building source code
 
